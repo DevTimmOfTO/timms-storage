@@ -1,0 +1,55 @@
+timms-storage
+=============
+
+This project is a replacement for all the design and household management
+software out there that is either bloated, locked behind paywalls, or just
+not built for normal people.
+
+Most existing tools do one thing well and everything else poorly. This one
+is supposed to change that. The goal is simple software that actually works,
+respects the user, and does not require a subscription or an account on
+someones server to function.
+
+Built desktop-first. Written in Rust.
+
+
+What is wrong with existing software
+-------------------------------------
+
+- Features are scattered across five different apps
+- Mobile versions are either broken or an afterthought
+- Adding items manually takes forever
+- No connection to real stores or product databases
+- Cloud sync is mandatory and often opaque
+- Most tools assume you are a professional or a developer
+
+
+What this project wants to fix
+--------------------------------
+
+- One place for household management, shopping lists, and pantry tracking
+- Barcode scanning to add items without typing everything by hand
+- Integration with open product databases like Open Food Facts
+- Store awareness via OpenStreetMap so you know where to buy what
+- Local-first, your data stays on your device
+- Simple enough for anyone to use on day one
+
+
+Contributing
+-------------
+
+Contributions are very welcome. Seriously, if you have an idea, a fix, or
+just an opinion on how something should work, open an issue or send a patch.
+This project is better with more people involved and I mean that.
+
+
+Status
+-------
+
+Early development. Things will break. The name will probably change too.
+
+
+Licence
+--------
+
+AGPL-3.0 - see LICENCE for details.
